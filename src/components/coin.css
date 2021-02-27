@@ -1,0 +1,17 @@
+img {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.coin-symbol {
+  text-transform: uppercase;
+}
+
+.red {
+  color: #ef233c;
+}
+
+.green {
+  color: #26c485;
+}
